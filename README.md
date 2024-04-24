@@ -113,6 +113,14 @@ We splited the data into train and test data. The train test split was done usin
 
 # Conclusion
 
+# What we learn
+1. Textual Data Cleaning
+2. Logistic Regression
+3. MultinomialNb
+4. Support Vector Classifier
+5. Categorical Data Cleaning
+6. Random Forest Classifier
+
 # Takeaways
 **Yee Hong**: I'm in charge of exploring random forest classifier. It helps me understand how to handle non-linear relationships and feature interactions using multiple variables. 
 
@@ -121,3 +129,9 @@ We splited the data into train and test data. The train test split was done usin
 **Wei Zhang**: The most interesting machine learning model I have learnt is Support Vector Classification due to its ability to find the optimal hyperplane that maximizes the margin between different classes in high-dimensional spaces.
 
 # References
+1. https://levity.ai/blog/text-classifiers-in-machine-learning-a-practical-guide
+2. https://www.datacamp.com/tutorial/wordcloud-python
+3. https://spotintelligence.com/2023/02/22/logistic-regression-text-classification-python/
+4. https://stackabuse.com/removing-stop-words-from-strings-in-python/
+5. https://github.com/sajjadirn/Text-Classification-using-random-forest-classifier
+6. https://levity.ai/blog/text-classifiers-in-machine-learning-a-practical-guide
