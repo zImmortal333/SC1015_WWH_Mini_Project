@@ -115,7 +115,9 @@ We splited the data into train and test data. The train test split was done usin
 
 # Takeaways
 **Yee Hong**: I'm in charge of exploring random forest classifier. It helps me understand how to handle non-linear relationships and feature interactions using multiple variables. 
+
 **Waylen**: I learnt that if one model fails to capture certain patterns or makes incorrect assumptions, other models can compensate. Execution of multiple models will potentially lead to more accurate predictions overall. 
+
 **Wei Zhang**: The most interesting machine learning model I have learnt is Support Vector Classification due to its ability to find the optimal hyperplane that maximizes the margin between different classes in high-dimensional spaces.
 
 # References
