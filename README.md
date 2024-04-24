@@ -9,8 +9,25 @@ Our aim is to build a classifier using machine learning models to indentify frau
 
 After filtering irrelevant variables, we will be using three model to analyze textual data, and a model to analyze categorical data. Among three models that classify textual data, we will be deciding the most effective model using accuracy and time metrics.
 ## Exploratory Data Analysis
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Number%20of%20job%20postings.png)
+* Not fraudulent: 17014
+* Fraudulent: 866
 
+There are noticeably less fraudulent job postings than non-fraudulent ones.
+Taking 'fraudulent' as a response variable, we construct a relationship of each variable with the response variable.
+### Telecommuting
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Telecommuting.png)
+Jobs postings that allow for telecommuting are almost twice as likely to be fraudulent.
+### Company Logo
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Company%20Logo.png)
 
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Questions.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Employment%20type.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/required%20experience.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/required%20education.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/industry.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Function.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Country.png)
 
 
 
