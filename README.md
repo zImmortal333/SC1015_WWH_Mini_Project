@@ -18,10 +18,11 @@ Taking 'fraudulent' as a response variable, we construct a relationship of each 
 ## Boolean Variables vs Fraudulent
 ### Telecommuting vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Screenshot%202024-04-24%20231155.png)
+
 Jobs postings that allow for telecommuting are almost twice as likely to be fraudulent.
 ### Company_Logo vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Company%20Logo.png)
-We can see that jobs postings that have no company logo accounts for **16% of being fraudulent**, which **has higher likelihood** than jobs postings with company logo to be fraudulent.
+We can see that jobs postings that have no company logo accounts **is 8 times more** than jobs postings with company logo to be fraudulent.
 ### Has_Questions vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Questions.png)
 We can infer that jobs postings **without questions has higher likelihood** than jobs postings that have questions to be fraudulent.
