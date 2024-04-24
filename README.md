@@ -31,21 +31,21 @@ We can infer that jobs postings **without questions has higher likelihood** than
 we can see that **part-time job postings** has the highest chance of being a fraudulent job posting.
 ### Required_Experience vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/required%20experience.png)
-From here, we can see that **executive jobs postings has the highest likelihood** of being a fraudulent job posting, followed by **entry level job postings.**
+After looking at this bar chart, we felt that there was not much conclusion that we can draw, as it does not really tell us **the chance of a job** posting being fraudulent from the required experience specified.
 ### Required_Education vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/required%20education.png)
 From this, we can see that majority of the job postings that are fraudulent only require for the applicant to have **some high school coursework** as their required education, as compared to needing some kind of certification or any higher education.
 ### Industry vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/industry.png)
-From this, we can see that job postings in the industry of **ranching** **are 100% fraudulent**, followed by **50% **of job postings in the **military** industry which are fraudulent.
+For 'Industry' we could not draw a conclusion on how it makes a job posting fraudulent or not, as it contains **many categories with only 1 data point**. In this example, ranching only contained 1 data point which was fraudulent. Therefore, it may seem that ranching has a 100% chance of being a fraudulent job posting, but that may not be the case.
 ### Function vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Function.png)
-This shows that **administrative job postings** account for **17%** to be fraudulent. It has highest chance of being fraudulent compared to other functions.
+Similarly for functions, we could not draw much conclusion for how it contributes to telling if a job is fraudulent or not, as the results shown could be misleading.
 ### Country vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Country.png)
 From this, we can see that **Malaysia** has the highest number of fraudulent job postings among all countries.
-## Conclusion from the Exploratory Data Analysis
-Required_Experience is removed because most of the data falls under the 'not applicable' category, which means no requirement for experience. We also dropped Industry and Function because there is a lot data with only one data point.
+## Conclusion on Boolean and Categorical Data
+
 We listed out useful variables and unuseful variables:
 
 **Useful:**
