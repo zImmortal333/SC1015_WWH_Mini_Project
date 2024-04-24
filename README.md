@@ -68,8 +68,8 @@ We generate Word Cloud to visualize job postings texts.
 ### Word Cloud of texts commonly used in non-fraudulent job postings
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/non%20fraud.png)
 
-From this, we can conclude that **"product", "service" and "customer"** are likely to appear in non-fraudulent job posting texts.
-**"Client","team","looking"** are likely to appear in fraudulent job postings texts.
+From this, we can conclude that **"product", "service" and "customer"** are likely to appear in fraudulent job posting texts.
+**"Client","team","looking"** are likely to appear in non-fraudulent job postings texts.
 **"Work" and "experience"** are commonly used in most of job postings texts.
 
 # Machine Learning Models for Textual Data Classification
