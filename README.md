@@ -17,7 +17,7 @@ There are noticeably less fraudulent job postings than non-fraudulent ones.
 Taking 'fraudulent' as a response variable, we construct a relationship of each variable with the response variable.
 ## Boolean Variables vs Fraudulent
 ### Telecommuting vs Fraudulent
-![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Telecommuting.png)
+![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Screenshot%202024-04-24%20231155.png)
 Jobs postings that allow for telecommuting are almost twice as likely to be fraudulent.
 ### Company_Logo vs Fraudulent
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Company%20Logo.png)
@@ -45,8 +45,9 @@ This shows that **administrative job postings** account for **17%** to be fraudu
 ![image](https://github.com/zImmortal333/SC1015_WWH_Mini_Project/blob/Images/Country.png)
 From this, we can see that **Malaysia** has the highest number of fraudulent job postings among all countries.
 ## Conclusion from the Exploratory Data Analysis
-Required_Experience is removed because most of the data falls under the 'not applicable' category, which means no requirement for experience. We also dropped Industry and Function because there are a noticeable amount of missing values.
+Required_Experience is removed because most of the data falls under the 'not applicable' category, which means no requirement for experience. We also dropped Industry and Function because there is a lot data with only one data point.
 We listed out useful variables and unuseful variables:
+
 **Useful:**
 - telecommuting
 - has_company_logo
