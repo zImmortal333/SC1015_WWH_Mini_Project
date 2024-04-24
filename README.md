@@ -112,6 +112,7 @@ We splited the data into train and test data. The train test split was done usin
 ## Analysis of categorical classification using the random forest classifier
 
 # Conclusion
+Through the use of Logistic Regression, Multinomial Naive Bayes, Support Vector Classification, and Random Forest models for predicting fraudulent job postings, a key learning outcome is the importance of model selection and understanding their strengths and limitations. Logistic Regression offers simplicity and interpretability, making it suitable for initial exploratory analysis. Multinomial Naive Bayes, despite its assumption of feature independence, can be effective in text classification tasks. Support Vector Classification, while powerful, requires careful tuning and may be computationally intensive. Random Forest excels in handling categorical data and capturing non-linear relationships. By combining these models, one can leverage their individual strengths to improve the overall predictive performance and gain deeper insights into fraudulent job posting detection strategies.
 
 # What we learn
 1. Textual Data Cleaning
